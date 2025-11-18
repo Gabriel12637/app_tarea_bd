@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(248, 235, 161);
+    background-color: rgb(72, 240, 57);
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
@@ -14,7 +14,7 @@ body{
 }
 
 input[type="text"]{
-    background-color: rgb(248, 235, 161);
+    background-color: rgb(86, 223, 104);
     border-style: none;
     font-size: 1.5rem;
 }
